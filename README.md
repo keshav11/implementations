@@ -1,2 +1,2 @@
 # implementations
-C++ implementations of programs
+C/C++ implementations of programs
